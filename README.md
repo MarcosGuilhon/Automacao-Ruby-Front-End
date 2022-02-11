@@ -1,3 +1,3 @@
 # Automacao-Ruby-Front-End
 
-fghfghfgh
+Web application using Ruby, Selenium and other ruby gems.
